@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Career Opportunities</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Career Opportunities Guide</h1>
+<p>Choose your career path wisely</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">IT Careers</a>
+<a href="#">Government Jobs</a>
+<a href="#">Skills</a>
+<a href="#">Contact</a>
+</nav>
+
+<section>
+<h2>Welcome</h2>
+<p>This website helps students to know about different career opportunities after graduation.</p>
+
+<h3>Popular Career Options</h3>
+<ul>
+<li>Software Developer</li>
+<li>Data Analyst</li>
+<li>Banking Jobs</li>
+<li>Government Jobs</li>
+<li>Digital Marketing</li>
+</ul>
+
+</section>
+
+<footer>
+<p>© 2026 Career Guide Website</p>
+</footer>
+
+</body>
+</html>
